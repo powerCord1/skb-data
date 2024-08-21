@@ -1,6 +1,459 @@
 {
     "1": {
-        "yt_id": "tzD9OxAHtzU",
-        "name": "Episode 1"
-    }
+        "id": "tzD9OxAHtzU",
+        "name": "Episode 1",
+        "size": "portrait"
+    },
+    "2": {
+        "id": "AnoTVNqLJ-Q",
+        "name": "Episode 2",
+        "size": "portrait"
+    },
+    "3": {
+        "id": "brGo1JgwtrM",
+        "name": "Episode 3",
+        "size": "portrait"
+    },
+    "4": {
+        "id": "UvFroPxa67s",
+        "name": "Episode 4",
+        "size": "portrait"
+    },
+    "5": {
+        "id": "9S8yAqINOYs",
+        "name": "Episode 5",
+        "size": "portrait"
+    },
+    "6": {
+        "id": "iQWY6j4aGc8",
+        "name": "Episode 6",
+        "size": "portrait"
+    },
+    "7": {
+        "id": "wVNMVGY56Os",
+        "name": "Episode 7",
+        "size": "portrait"
+    },
+    "8": {
+        "id": "ImL2oQ_FxfU",
+        "name": "Episode 8",
+        "size": "portrait"
+    },
+    "9": {
+        "id": "U_lrep5F8gE",
+        "name": "Episode 9",
+        "size": "portrait"
+    },
+    "10": {
+        "id": "OHj0icF52tQ",
+        "name": "Episode 10",
+        "size": "portrait"
+    },
+    "11": {
+        "id": "BZkiIPSoLZU",
+        "name": "Episode 11",
+        "size": "portrait"
+    },
+    "12": {
+        "id": "FvwI98sbSZY",
+        "name": "Episode 12",
+        "size": "portrait"
+    },
+    "13": {
+        "id": "O5rYYx1iuvM",
+        "name": "Episode 13",
+        "size": "portrait"
+    },
+    "14": {
+        "id": "PjW1-4MWBUE",
+        "name": "Episode 14",
+        "size": "portrait"
+    },
+    "15": {
+        "id": "7UBsDEg9wLY",
+        "name": "Episode 15",
+        "size": "portrait"
+    },
+    "16": {
+        "id": "Yd0qsSLqmpI",
+        "name": "Episode 16",
+        "size": "portrait"
+    },
+    "17": {
+        "id": "jCHDHuO5Pq8",
+        "name": "Episode 17",
+        "size": "portrait"
+    },
+    "18": {
+        "id": "KUhpj5dQack",
+        "name": "Episode 18",
+        "size": "portrait"
+    },
+    "19": {
+        "id": "HCkpPXrZ7x4",
+        "name": "Episode 19",
+        "size": "portrait"
+    },
+    "20": {
+        "id": "OL9K-3L_7D0",
+        "name": "Episode 20",
+        "size": "portrait"
+    },
+    "21": {
+        "id": "8HnRi6VOKCc",
+        "name": "Episode 21",
+        "size": "portrait"
+    },
+    "22": {
+        "id": "PEPnf8riCck",
+        "name": "Episode 22",
+        "size": "portrait"
+    },
+    "23": {
+        "id": "ss7PwhXgwbA",
+        "name": "Episode 23",
+        "size": "portrait"
+    },
+    "24": {
+        "id": "d9z9J4Wz6Ns",
+        "name": "Episode 24",
+        "size": "portrait"
+    },
+    "25": {
+        "id": "8GxDwN5Ssyk",
+        "name": "Episode 25",
+        "size": "portrait"
+    },
+    "26": {
+        "id": "RzBLcKXIlDk",
+        "name": "Episode 26",
+        "size": "portrait"
+    },
+    "27": {
+        "id": "iBm_NSjPwCc",
+        "name": "Episode 27",
+        "size": "portrait"
+    },
+    "28": {
+        "id": "1cNY9vus2MI",
+        "name": "Episode 28",
+        "size": "portrait"
+    },
+    "29": {
+        "id": "OKgN-spo_l8",
+        "name": "Episode 29",
+        "size": "portrait"
+    },
+    "30": {
+        "id": "sWGxTqLpngo",
+        "name": "Episode 30",
+        "size": "portrait"
+    },
+    "31": {
+        "id": "AXihAMb_cv8",
+        "name": "Episode 31",
+        "size": "portrait"
+    },
+    "32": {
+        "id": "z8_jQD4F1aE",
+        "name": "Episode 32",
+        "size": "portrait"
+    },
+    "33": {
+        "id": "7HwU6Lb92u0",
+        "name": "Episode 33",
+        "size": "portrait"
+    },
+    "34": {
+        "id": "qf5_oMc924w",
+        "name": "Episode 34",
+        "size": "portrait"
+    },
+    "35": {
+        "id": "57y7DjoanPI",
+        "name": "Episode 35",
+        "size": "portrait"
+    },
+    "36": {
+        "id": "jloLwET97nE",
+        "name": "Episode 36",
+        "size": "portrait"
+    },
+    "37": {
+        "id": "rIB3khGCA2M",
+        "name": "Episode 37",
+        "size": "portrait"
+    },
+    "38": {
+        "id": "-Wkva1SGLOE",
+        "name": "Episode 38",
+        "size": "portrait"
+    },
+    "39": {
+        "id": "vpysNcXpa2o",
+        "name": "Episode 39",
+        "size": "fullscreen"
+    },
+    "40": {
+        "id": "JKiUUwoVm3g",
+        "name": "Episode 40",
+        "size": "fullscreen"
+    },
+    "41": {
+        "id": "VLuc2Ubt5Xc",
+        "name": "Episode 41",
+        "size": "fullscreen"
+    },
+    "42": {
+        "id": "DzsNFEWklnM",
+        "name": "Episode 42",
+        "size": "fullscreen"
+    },
+    "43": {
+        "id": "y4QKHuG4QCg",
+        "name": "Episode 43",
+        "size": "fullscreen"
+    },
+    "44": {
+        "id": "60npBvKvGBA",
+        "name": "Episode 44",
+        "size": "fullscreen"
+    },
+    "45": {
+        "id": "5UaAZGteBPg",
+        "name": "Episode 45",
+        "size": "fullscreen"
+    },
+    "46": {
+        "id": "AySjtkg4X6Q",
+        "name": "Episode 46",
+        "size": "fullscreen"
+    },
+    "47": {
+        "id": "0c2vjcsDB8U",
+        "name": "Episode 47",
+        "size": "fullscreen"
+    },
+    "48": {
+        "id": "bxJg8zhXCjY",
+        "name": "Episode 48",
+        "size": "fullscreen"
+    },
+    "49": {
+        "id": "z4joadXXNZA",
+        "name": "Episode 49",
+        "size": "fullscreen"
+    },
+    "50": {
+        "id": "WkHrFn4Fx6Q",
+        "name": "Episode 50",
+        "size": "fullscreen"
+    },
+    "51": {
+        "id": "tDpdOQfWPBQ",
+        "name": "Episode 51",
+        "size": "fullscreen"
+    },
+    "52": {
+        "id": "gSLGgTcvzsE",
+        "name": "Episode 52",
+        "size": "fullscreen"
+    },
+    "53": {
+        "id": "CfpRuNaduEs",
+        "name": "Episode 53",
+        "size": "fullscreen"
+    },
+    "54": {
+        "id": "HhKzRsP1Wc0",
+        "name": "Episode 54",
+        "size": "fullscreen"
+    },
+    "55": {
+        "id": "zXk6GiWTxgc",
+        "name": "Episode 55",
+        "size": "fullscreen"
+    },
+    "56": {
+        "id": "Ll4DRoANaVA",
+        "name": "Episode 56",
+        "size": "fullscreen"
+    },
+    "57a": {
+        "id": "GKBAx1gH6ow",
+        "name": "Episode 57 (part 1)",
+        "part": 1,
+        "size": "fullscreen"
+    },
+    "57b": {
+        "id": "IdyoztNeHsI",
+        "name": "Episode 57 (part 2)",
+        "part": 2,
+        "size": "fullscreen"
+    },
+    "57c": {
+        "id": "9i1hg9HC-Cw",
+        "name": "Episode 57 (part 3)",
+        "part": 3,
+        "size": "portrait"
+    },
+    "58": {
+        "id": "qmvDrQoLz8g",
+        "name": "Episode 58",
+        "size": "fullscreen"
+    },
+    "59": {
+        "id": "L9iUor7s2MM",
+        "name": "Episode 59",
+        "size": "fullscreen"
+    },
+    "60": {
+        "id": "T-sJFwirHik",
+        "name": "Episode 60",
+        "size": "fullscreen"
+    },
+    "61": {
+        "id": "RgmEZUTDXJk",
+        "name": "Episode 61",
+        "size": "fullscreen"
+    },
+    "62": {
+        "id": "-FyR3FfjS6s",
+        "name": "Episode 62",
+        "size": "fullscreen"
+    },
+    "63": {
+        "id": "uz0WytEk7UY",
+        "name": "Episode 63",
+        "size": "fullscreen"
+    },
+    "64": {
+        "id": "gnzJFx2vDBY",
+        "name": "Episode 64",
+        "size": "fullscreen"
+    },
+    "65": {
+        "id": "fpk6itC2Pq0",
+        "name": "Episode 65",
+        "size": "fullscreen"
+    },
+    "66": {
+        "id": "-BXItmWzWNE",
+        "name": "Episode 66",
+        "size": "fullscreen"
+    },
+    "67a": {
+        "id": "0sp-iLOqScQ",
+        "name": "Episode 67 (part 1)",
+        "part": 1,
+        "size": "fullscreen"
+    },
+    "67b": {
+        "id": "w6jQh2UB2ug",
+        "name": "Episode 67 (part 2)",
+        "part": 2,
+        "size": "fullscreen"
+    },
+    "67c": {
+        "id": "vIgnPmmcSXs",
+        "name": "Episode 67 (part 3)",
+        "part": 3,
+        "size": "fullscreen"
+    },
+    "67d": {
+        "id": "lgvl3Tib0fE",
+        "name": "Episode 67 (part 4)",
+        "part": 4,
+        "size": "fullscreen"
+    },
+    "67e": {
+        "id": "e_6Nrw9-278",
+        "name": "Episode 67 (part 5)",
+        "part": 5,
+        "size": "portrait"
+    },
+    "67all": {
+        "id": "jjy0bIO-YNI",
+        "name": "Episode 67 (full episode)",
+        "iscomp": true,
+        "size": "fullscreen"
+    },
+    "68a": {
+        "id": "IiFSGjWXq0c",
+        "name": "Episode 68 (part 1)",
+        "part": 1,
+        "size": "fullscreen"
+    },
+    "68b": {
+        "id": "Rej1_LcVE3o",
+        "name": "Episode 68 (part 2)",
+        "part": 2,
+        "size": "fullscreen"
+    },
+    "68all": {
+        "id": "v7HFWmuf6SQ",
+        "name": "Episode 68 (full episode)",
+        "iscomp": true,
+        "size": "fullscreen"
+    },
+    "69a": {
+        "id": "6aqpQDNT50g",
+        "name": "Episode 69 (part 1)",
+        "part": 1,
+        "size": "fullscreen"
+    },
+    "69b": {
+        "id": "K8nuz6z90cQ",
+        "name": "Episode 69 (part 2)",
+        "part": 2,
+        "size": "fullscreen"
+    },
+    "69all": {
+        "id": "wGc0jClpTPQ",
+        "name": "Episode 69 (full episode)",
+        "iscomp": true,
+        "size": "fullscreen"
+    },
+    "70": {
+        "id": "PLUhJmqHd1s",
+        "name": "Episode 70",
+        "size": "fullscreen"
+    },
+    "71": {
+        "id": "aFvw_yu0N3A",
+        "name": "Episode 71",
+        "size": "fullscreen"
+    },
+    "72": {
+        "id": "d7DdLRe5QgM",
+        "name": "Episode 72",
+        "size": "fullscreen"
+    },
+    "73": {
+        "id": "AJZIwDbJxPA",
+        "name": "Episode 73",
+        "size": "fullscreen"
+    },
+    "74": {
+        "id": "W_hsGsd39Kg",
+        "name": "Episode 74",
+        "size": "fullscreen"
+    },
+    "75": {
+        "id": "A4ZbdU31KbQ",
+        "name": "Episode 75",
+        "size": "fullscreen"
+    },
+    "76": {
+        "id": "-74HbNnmf_s",
+        "name": "Episode 76",
+        "size": "fullscreen"
+    },
+    "77a": {
+        "id": "pL4iwC7DQzg",
+        "name": "Episode 77 (part 1)",
+        "part": 1,
+        "size": "fullscreen",
+        "latest": true
+    },
 }
